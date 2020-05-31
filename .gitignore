@@ -1,3 +1,16 @@
+# STuff
+.env
+/.vscode
+build/
+.DS_Store
+HBR.py
+HBR2.py
+HBR3.py
+scraps.py
+settings.py
+Stanford.py
+MIT.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
